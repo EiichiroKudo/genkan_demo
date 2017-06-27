@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Flag.unity
+  isLoaded: 1
+  isActive: 1

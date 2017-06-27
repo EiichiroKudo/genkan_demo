@@ -1,0 +1,17 @@
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/harada/Desktop/unity_file/Hail/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/harada/Desktop/unity_file/Hail/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/UnityEngine.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/UnityEditor.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Mono.Cecil.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Unity.DataContract.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/harada/Desktop/unity_file/Hail/Temp/bin/Debug/Mono.Cecil.Mdb.dll
